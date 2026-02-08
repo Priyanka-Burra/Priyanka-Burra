@@ -13,23 +13,23 @@ I’m particularly interested in **business analytics, dashboards, and applied m
 
 ### 🔬 Data Science & Machine Learning
 
-**A Data-Driven Model for Predicting Delivery Delays in Supply Chains**  
+**[A Data-Driven Model for Predicting Delivery Delays in Supply Chains](https://github.com/Priyanka-Burra/A-Data-Driven-Model-for-Predicting-Delivery-Delays-in-Supply-Chains)**  
 Predictive modeling project analyzing logistics and operational factors to forecast delivery delays and improve supply chain efficiency.
 
-**Car Price Prediction Using Machine Learning**  
+**[Car Price Prediction Using Machine Learning](https://github.com/Priyanka-Burra/Car-Price-Prediction-using-Machine-Learning)**  
 Regression-based machine learning project involving EDA, feature engineering, model training, and evaluation to predict used car prices.
 
-**AnaVerse 2.0 – Anomaly Detection (Kaggle)**  
+**[AnaVerse 2.0 – Anomaly Detection (Kaggle)](https://github.com/Priyanka-Burra/AnaVerse-2.0-Anomaly-Detection)**  
 Anomaly detection project using data preprocessing and KNN-based modeling to identify unusual patterns in competition datasets.
 
 ---
 
 ### 📊 Data Analytics & Visualization
 
-**Swiggy SQL Data Analysis**  
+**[Swiggy SQL Data Analysis](https://github.com/Priyanka-Burra/swiggy-sql-data-analysis)**  
 End-to-end SQL analytics project answering real-world business questions using structured queries on a food delivery dataset.
 
-**AtliQ Hotels Data Analysis**  
+**[AtliQ Hotels Data Analysis](https://github.com/Priyanka-Burra/AtliQ-Hotels-Data-Analysis-Project)**  
 Exploratory data analysis project identifying revenue, occupancy, and performance trends in the hospitality domain using Python.
 
 ---
