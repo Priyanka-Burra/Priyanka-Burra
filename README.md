@@ -1,71 +1,54 @@
-Hi there! 👋 I’m Priyanka Burra
+## Hi there! 👋 I’m Priyanka Burra  
+### Data Science | Data Analyst  
 
-Data Science | Data Analyst
+I’m a data professional passionate about using data to uncover insights, explain patterns, and support informed business decisions.  
+I enjoy working across the full data lifecycle — from **data cleaning and exploratory data analysis (EDA)** to **analysis, visualization, and insight communication**, with a strong focus on **business-oriented problem solving**.
 
-I’m a data professional passionate about using data to uncover insights, explain patterns, and support informed business decisions. I enjoy working across the full data lifecycle — from data cleaning and EDA to analysis, visualization, and insight communication — with a strong focus on practical, business-oriented problem solving.
+Currently, I’m strengthening my skills in **machine learning, data visualization, and analytics** through hands-on projects and real-world problem statements.  
+I’m particularly interested in **business analytics, dashboards, and applied machine learning** that drive measurable impact.
 
-Currently, I’m strengthening my skills in machine learning, data visualization, and analytics through hands-on projects and real-world problem statements. I’m particularly interested in business analytics, dashboards, and applied machine learning that drive measurable impact.
+---
 
-📌 Projects
-🔬 Data Science & Machine Learning
+## 📌 Projects
 
-Predicting Delivery Delays in Supply Chains
+### 🔬 Data Science & Machine Learning
+- **A Data-Driven Model for Predicting Delivery Delays in Supply Chains**  
+- **Car Price Prediction Using Machine Learning**  
+- **AnaVerse 2.0 – Anomaly Detection (Kaggle)**  
 
-Car Price Prediction
+### 📊 Data Analytics & Visualization
+- **Swiggy SQL Data Analysis**  
+- **AtliQ Hotels Data Analysis**  
+- **Finance Analytics Dashboard**  
 
-AnaVerse 2.0 – Anomaly Detection (Kaggle)
+---
 
-Titanic Survival Classification
+## 🛠️ Tech Stack
 
-Heart Disease Classification
+### Languages & Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-Multi-Disease Prediction System
+### Data Libraries & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-📊 Data Analytics & Visualization
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
-Swiggy SQL Data Analysis
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-AtliQ Hotels Data Analysis
+---
 
-Finance Analytics Dashboard
+## 📧 Contact
+📩 **Email:** burrapriyanka85@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/priyankaburra/  
 
-E-commerce Customer Segmentation
-
-CodeAlpha Data Analytics Internship Tasks
-
-🛠️ Tech Stack
-Languages & Analysis
-
-
-
-
-Data Libraries
-
-
-
-
-
-
-Data Visualization & BI
-
-
-
-
-
-
-Databases & Tools
-
-
-
-
-
-
-
-
-📧 Contact
-
-📩 Email: burrapriyanka85@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/priyankaburra
-
-⭐ Continuously learning to turn data into meaningful, real-world insights ⭐
+⭐ *Continuously learning to turn data into meaningful, real-world insights* ⭐
