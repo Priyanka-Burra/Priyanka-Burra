@@ -1,98 +1,67 @@
-## Hi there! 👋 I’m Priyanka Burra  
-**Data Analyst | Data Science | Python | SQL | Machine Learning**
+Hi there! 👋 I’m Priyanka Burra  
+Data Science | Data Analyst
 
-I’m a data professional with hands-on experience in **data analysis, machine learning, and visualization**, focused on solving real-world business problems through data-driven insights and predictive modeling.
+Hello! 👋 I’m **Priyanka Burra**, a **Data Science enthusiast and Data Analyst** driven by a strong curiosity about how data can be used to understand patterns, support decisions, and solve real-world business problems. I’m passionate about transforming raw data into meaningful insights through analysis, visualization, and analytical thinking.
 
----
+I enjoy working with data across its lifecycle — from **cleaning and exploration** to **drawing insights and communicating results** in a clear and impactful way. My approach focuses on practical, business-oriented problem solving rather than just technical implementation.
 
-## 👩‍💻 About Me
-- Strong foundation in **Data Analytics & Data Science**
-- Experience with **end-to-end projects**: EDA → Modeling → Insights → Deployment
-- Interested in **business analytics, dashboards, and applied machine learning**
+Currently, I am focused on strengthening my skills in **data science, machine learning, and data visualization** through continuous learning and hands-on practice. I actively work on improving my analytical reasoning and applying data-driven approaches to realistic problem statements that reflect real industry use cases.
 
----
-
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-orange)
-![Pandas](https://img.shields.io/badge/Pandas-black)
-![NumPy](https://img.shields.io/badge/NumPy-blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-green)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-red)
-![Git](https://img.shields.io/badge/Git-black)
+I am particularly interested in **business analytics, dashboarding, and applied machine learning**, where data can directly influence strategy, efficiency, and decision-making. I am eager to grow as a data professional and contribute meaningfully in environments that value learning, collaboration, and data-driven thinking.
 
 ---
 
-## 📌 Featured Projects
+📌 **Projects Overview**
 
-### 🔬 Data Science Projects (Primary Focus)
+**🔬 Data Science & Machine Learning**
+- A Data-Driven Model for Predicting Delivery Delays in Supply Chains  
+- Car Price Prediction Using Machine Learning  
+- AnaVerse 2.0 – Anomaly Detection (Kaggle)  
+- Titanic Survival Classification  
+- Heart Disease Classification  
+- Multi-Disease Prediction System  
 
-🔹 **A Data-Driven Model for Predicting Delivery Delays in Supply Chains**  
-**Role fit:** ⭐ Data Scientist / ML Engineer  
-- Built an end-to-end ML pipeline to predict delivery delays  
-- Applied machine learning to a real-world logistics problem  
-- Improved operational efficiency and customer satisfaction  
-**Tech:** Python, Machine Learning, Streamlit  
-
----
-
-🔹 **Car Price Prediction Using Machine Learning**  
-**Role fit:** ⭐ Data Scientist  
-- Regression modeling with feature engineering  
-- Hyperparameter tuning and model evaluation  
-- Frequently discussed real-world ML interview project  
-**Tech:** Python, Scikit-learn, ML Pipelines  
+**📊 Data Analytics & Visualization**
+- Swiggy SQL Data Analysis  
+- AtliQ Hotels Data Analysis  
+- Finance Analytics Dashboard  
+- E-commerce Customer Segmentation  
+- CodeAlpha Data Analytics Internship Tasks  
 
 ---
 
-🔹 **AnaVerse 2.0 – Anomaly Detection (Kaggle)**  
-**Role fit:** ⭐ Data Scientist  
-- Unsupervised anomaly detection using KNN  
-- Kaggle competition problem-solving experience  
-- Focus on data preprocessing and evaluation  
-**Tech:** Python, KNN, Data Preprocessing  
+📧 **Contact**  
+Email: burrapriyanka85@gmail.com  
+LinkedIn: https://www.linkedin.com/in/priyankaburra  
 
 ---
 
-### 📊 Data Analyst Projects (Strong Secondary Focus)
+🛠️ **Tech Stack**
 
-🔹 **Swiggy SQL Data Analysis Project**  
-**Role fit:** ⭐ Data Analyst (Strong)  
-- End-to-end business-focused SQL analytics project  
-- Designed relational schema and solved real food-delivery business problems  
-- Insights on revenue, customer behavior, and delivery performance  
-**Tech:** SQL, MySQL, CSV Data  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-👉 *Must-have project for Data Analyst roles*
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-🔹 **AtliQ Hotels Data Analysis Project**  
-**Role fit:** ⭐ Data Analyst  
-- Industry-recognized real business case study  
-- Strong EDA and KPI-driven analysis  
-- Revenue, occupancy, and performance insights  
-**Tech:** Python, Pandas, Jupyter Notebook  
-
-👉 *Highly recognizable project for analytics interviews*
-
----
-
-🔹 **Finance Analytics Dashboard**  
-**Role fit:** ⭐ Data Analyst / Business Analyst  
-- Interactive dashboard-style analysis recruiters value  
-- Visual storytelling for financial decision-making  
-- Income, expense, and savings trend analysis  
-**Tech:** TypeScript, Structured Data, Visual Analytics  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-## 📫 Contact Me
-📧 Email: burrapriyanka85@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/priyankaburra  
+🤝 **Let’s Connect!**  
+LinkedIn · GitHub · Email  
 
 ---
 
-⭐ *Turning data into meaningful business insights through analytics and machine learning*
+⭐ *Learning to transform data into meaningful insights* ⭐
