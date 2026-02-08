@@ -12,26 +12,25 @@ I’m particularly interested in **business analytics, dashboards, and applied m
 ## 📌 Projects
 
 ### 🔬 Data Science & Machine Learning
-- **[A Data-Driven Model for Predicting Delivery Delays in Supply Chains](https://github.com/Priyanka-Burra/A-Data-Driven-Model-for-Predicting-Delivery-Delays-in-Supply-Chains)**  
-  Predictive modeling project analyzing logistics and operational factors to forecast delivery delays.
 
-- **[Car Price Prediction Using Machine Learning](https://github.com/Priyanka-Burra/Car-Price-Prediction-using-Machine-Learning)**  
-  Regression-based ML project with EDA, feature engineering, and model evaluation to predict used car prices.
+**A Data-Driven Model for Predicting Delivery Delays in Supply Chains**  
+Predictive modeling project analyzing logistics and operational factors to forecast delivery delays and improve supply chain efficiency.
 
-- **[AnaVerse 2.0 – Anomaly Detection (Kaggle)](https://github.com/Priyanka-Burra/AnaVerse-2.0-Anomaly-Detection)**  
-  Anomaly detection solution using preprocessing and KNN-based modeling for Kaggle competition data.
+**Car Price Prediction Using Machine Learning**  
+Regression-based machine learning project involving EDA, feature engineering, model training, and evaluation to predict used car prices.
+
+**AnaVerse 2.0 – Anomaly Detection (Kaggle)**  
+Anomaly detection project using data preprocessing and KNN-based modeling to identify unusual patterns in competition datasets.
 
 ---
 
 ### 📊 Data Analytics & Visualization
-- **[Swiggy SQL Data Analysis](https://github.com/Priyanka-Burra/swiggy-sql-data-analysis)**  
-  End-to-end SQL analytics project answering real-world business questions using relational queries.
 
-- **[AtliQ Hotels Data Analysis](https://github.com/Priyanka-Burra/AtliQ-Hotels-Data-Analysis-Project)**  
-  Exploratory data analysis project identifying revenue, occupancy, and performance trends in the hospitality domain.
+**Swiggy SQL Data Analysis**  
+End-to-end SQL analytics project answering real-world business questions using structured queries on a food delivery dataset.
 
-- **[Finance Analytics Dashboard](https://github.com/Priyanka-Burra/finance-analytics-dashboard)**  
-  Interactive analytics dashboard analyzing income, expenses, savings trends, and financial KPIs from structured data.
+**AtliQ Hotels Data Analysis**  
+Exploratory data analysis project identifying revenue, occupancy, and performance trends in the hospitality domain using Python.
 
 ---
 
@@ -41,7 +40,7 @@ I’m particularly interested in **business analytics, dashboards, and applied m
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### Data Libraries & ML
+### Data Libraries & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -49,7 +48,6 @@ I’m particularly interested in **business analytics, dashboards, and applied m
 ### Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -60,6 +58,7 @@ I’m particularly interested in **business analytics, dashboards, and applied m
 ---
 
 ## 📧 Contact
+
 📩 **Email:** burrapriyanka85@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/priyankaburra/
 
