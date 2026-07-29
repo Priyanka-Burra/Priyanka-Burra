@@ -1,5 +1,5 @@
 ## Hi there! 👋 I’m Priyanka Burra  
-### Data Science | Data Analyst  
+Data Analyst | Business Intelligence | SQL | Python | Power BI
 
 I’m a data professional passionate about using data to uncover insights, explain patterns, and support informed business decisions.  
 I enjoy working across the full data lifecycle — from **data cleaning and exploratory data analysis (EDA)** to **analysis, visualization, and insight communication**, with a strong focus on **business-oriented problem solving**.
